@@ -23,3 +23,8 @@ D:\1_Apr\HudsonWebAppDemo\HudsonWebAppDemo\obj\Debug\Package\HudsonWebAppDemo.So
 D:\1_Apr\HudsonWebAppDemo\HudsonWebAppDemo\obj\Debug\Package\HudsonWebAppDemo.SetParameters.xml
 D:\1_Apr\HudsonWebAppDemo\HudsonWebAppDemo\obj\Debug\Package\HudsonWebAppDemo.deploy.cmd
 D:\1_Apr\HudsonWebAppDemo\HudsonWebAppDemo\obj\Debug\Package\HudsonWebAppDemo.deploy-readme.txt
+D:\Client_Fargo\sshGit\Fargo-Demo\HudsonWebAppDemo\HudsonWebAppDemo\bin\HudsonWebAppDemo.dll
+D:\Client_Fargo\sshGit\Fargo-Demo\HudsonWebAppDemo\HudsonWebAppDemo\bin\HudsonWebAppDemo.pdb
+D:\Client_Fargo\sshGit\Fargo-Demo\HudsonWebAppDemo\HudsonWebAppDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\Client_Fargo\sshGit\Fargo-Demo\HudsonWebAppDemo\HudsonWebAppDemo\obj\Debug\HudsonWebAppDemo.dll
+D:\Client_Fargo\sshGit\Fargo-Demo\HudsonWebAppDemo\HudsonWebAppDemo\obj\Debug\HudsonWebAppDemo.pdb
